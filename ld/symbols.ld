@@ -4133,3 +4133,7 @@ unused8038EEA8 = 0x8038eea8;
 gFrameBuffer0 = 0x8038f800;
 gFrameBuffer1 = 0x803b5000;
 gFrameBuffer2 = 0x803da800;
+
+gRandomSeed16 = 0x8038EEE0;
+gGfxPools = 0x80207d00;
+dma_read = 0x80278504;
