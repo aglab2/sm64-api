@@ -4136,4 +4136,10 @@ gFrameBuffer2 = 0x803da800;
 
 gRandomSeed16 = 0x8038EEE0;
 gGfxPools = 0x80207d00;
-dma_read = 0x80278504;
+_save_file_get_star_flags = 0x8027a1c8;
+_sqrtf = 0x80323a50;
+_save_file_get_total_star_count = 0x80279bc8;
+seq_player_play_sequence = 0x80320544;
+sCurrentBackgroundMusicSeqId = 0x803331ac;
+sCurrentShellMusic = 0x8032d60c;
+sBgMusicDisabled = 0x8032d604;
